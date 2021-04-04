@@ -1,0 +1,64 @@
+.div 
+{
+    background-color:turquoise
+    
+}
+footer
+{
+    font-size: x-large;
+    text-align: center;
+    color: brown;
+    font-weight: bold;     
+}
+header 
+{
+    background-color: tomato;
+
+}
+#first 
+{
+    text-align: center;
+    background-color: skyblue;
+    font-size: xx-large;
+}
+
+#second
+{
+    background-color: rgb(6, 75, 41);
+    color: tan;
+    text-align: center;
+    font-size: xx-large;
+}
+
+#three
+{
+    background-color:darkgray;
+    color:darkblue;
+    text-align: center;
+    font-size: xx-large;
+}
+nav
+{
+    font-size: xx-large;
+}
+
+.cont
+{   text-align: center;
+    font-size: xx-large;
+    color: darkorange;
+    background-color: darkred;
+}
+
+img 
+{
+    width: 40%;
+    height: 40%;
+    margin: 2%;
+}
+.cont img
+{
+   width: 40%;
+   height: 40%;
+   display: inline;
+    margin: 2%;
+} 
